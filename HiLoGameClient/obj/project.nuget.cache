@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8S4Pkz+I1UmrxZCzTS/KqkQp6inNfGTY+QCh1mFeEfGjagbnKKyrumybgzNw41Dv/MDYpStsmF2H2ewNX+XyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isen0\\Documents\\DEV\\Gaming1\\HiLoGameICL\\HiLoGameClient\\HiLoGameClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isen0\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0-preview.5.23280.8\\system.configuration.configurationmanager.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\isen0\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0-preview.5.23280.8\\system.diagnostics.eventlog.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\isen0\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0-preview.5.23280.8\\system.security.cryptography.protecteddata.8.0.0-preview.5.23280.8.nupkg.sha512"
+  ],
+  "logs": []
+}

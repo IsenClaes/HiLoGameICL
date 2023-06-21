@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HiLoGameClient/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "8.0.0-preview.5.23280.8"
+        },
+        "runtime": {
+          "HiLoGameClient.dll": {}
+        }
+      },
+      "System.Configuration.ConfigurationManager/8.0.0-preview.5.23280.8": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "8.0.0-preview.5.23280.8",
+          "System.Security.Cryptography.ProtectedData": "8.0.0-preview.5.23280.8"
+        },
+        "runtime": {
+          "lib/net7.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.28008"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/8.0.0-preview.5.23280.8": {
+        "runtime": {
+          "lib/net7.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.28008"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.28008"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/8.0.0-preview.5.23280.8": {
+        "runtime": {
+          "lib/net7.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.28008"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HiLoGameClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Configuration.ConfigurationManager/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HRlPUWAZbi9zJ7kkXeCz50907A4AYN4VawLiYNu0WkQHhr7HH9s3DVKDZMGMEdPZmwmg4hTQma7Yz5y/H64VuA==",
+      "path": "system.configuration.configurationmanager/8.0.0-preview.5.23280.8",
+      "hashPath": "system.configuration.configurationmanager.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rwL10IplmGRKPEj/GNOqmTmnmPZTJCYL6N362vYOQF97FkGFMU6GIlXn1yp5BIW6vo/hLHHjxoBpN6etcClW7w==",
+      "path": "system.diagnostics.eventlog/8.0.0-preview.5.23280.8",
+      "hashPath": "system.diagnostics.eventlog.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ycCVCV54oZ26V/sZsEtqkhdQLnJnZQYH0YpqjhVN9btvMzh1/2sDVUvaCHw4mUp+lJ9j+sp+DC1FalHRIPvdxA==",
+      "path": "system.security.cryptography.protecteddata/8.0.0-preview.5.23280.8",
+      "hashPath": "system.security.cryptography.protecteddata.8.0.0-preview.5.23280.8.nupkg.sha512"
+    }
+  }
+}
